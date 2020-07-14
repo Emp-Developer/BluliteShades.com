@@ -1,0 +1,59 @@
+
+/* Sticky Header */
+.fixed-header {
+    position: fixed !important;
+    top: -6px !important;
+    width: 100%;
+    margin-top: 5px;
+    -webkit-box-shadow: 0 10px 6px -6px rgb(70, 67, 67);
+    -moz-box-shadow: 0 10px 6px -6px rgb(70, 67, 67);
+         box-shadow: 0 10px 6px -6px rgb(70, 67, 67);
+}
+
+/* Header Background Coloer */
+.header {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+/* .header .header-cart-container.menu i {
+    color: #fff !important;
+}
+
+.header a {
+    color: #fff !important;
+} */
+
+/* Header top bar */
+.custom-text:hover {
+    color: #00ff00;
+}
+
+/* footer  */
+.footer-customhtml {
+    /* font-family: "Comic Sans MS", cursive, sans-serif; */
+}
+
+.footer-container .footer-center .footer-link ul li a {
+    font-family: "Playfair Display",serif;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.footer-container.footer_layout_1 .footer-center .footer-copyright {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+.sub-title {
+    font-size: 18px;
+}
+
+/* Hide the page title */
+.page-header {
+    display: none;
+}
+
+/* CTA Button */
+a.btn.hero__cta:hover {
+
+}
