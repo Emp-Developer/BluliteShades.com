@@ -58,10 +58,9 @@ PLEASE REMOVE ONLY AFTER YOU UNINSTALLED THE PAGEFLY APP.
     {{ 'owl.theme.css' | asset_url | stylesheet_tag }}
     {{ 'theme_core.scss.css' | asset_url | stylesheet_tag }}
     {{ 'responsive.css' | asset_url | stylesheet_tag }}
-    {{ 'custom.css' | asset_url | stylesheet_tag }}
-
     {% if settings.display_csseditor %}
     {{ 'bannereditor.css' | asset_url | stylesheet_tag }}
+    {{ 'custom.css' | asset_url | stylesheet_tag }}
     {% endif %}
     <!-- Scripts -->
     {% include 'head_scripts' %}
@@ -95,7 +94,6 @@ PLEASE REMOVE ONLY AFTER YOU UNINSTALLED THE PAGEFLY APP.
 {% render 'pagefly-header' %}
  
   {% include "trackify_x" %}
-{{ 'ndnapps-easyfaqs.css' | asset_url | stylesheet_tag }}
 </head> 
 
   {% comment %}

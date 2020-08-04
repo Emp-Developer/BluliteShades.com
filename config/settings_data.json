@@ -13,7 +13,7 @@
     "home_block_title_7": "Coming Soon",
     "home_block_sub_title_7": "Our website is under construction, we are working very hard to give you the best experience with this one.<br>You will love Ciao as much as we do. It will morph perfectly on your needs!",
     "home_block_countdown_7": "2021\/12\/31 10:30:00",
-    "body_color": "#666666",
+    "body_color": "#2d2d2d",
     "body_link_color": "#000000",
     "body_link_color_hover": "#00ff00",
     "bg_body_color": "#ffffff",
@@ -26,12 +26,12 @@
     "bg_header_color": "#de8a8a",
     "background_megamenu_ticky": "#ffffff",
     "link_megamenu_ticky": "#ffffff",
-    "link_hover_megamenu_ticky": "#59ff48",
+    "link_hover_megamenu_ticky": "#00ff00",
     "color_megamenu_ticky_text_cart": "#ffffff",
     "color_megamenu_ticky_icon_cart": "#c83548",
     "link_color_levertop": "#ffffff",
     "link_color_levertop_hover": "#00ff00",
-    "background_dropdown": "#726d6d",
+    "background_dropdown": "#2d2d2d",
     "link_color_title": "#ffffff",
     "link_color_sub_menu": "#ffffff",
     "link_color_sub_menu_hover": "#00ff00",
@@ -77,13 +77,13 @@
     "second_button_text_color_hover_3": "#000000",
     "body_font_size": 14,
     "fonts_name_0": "https:\/\/fonts.googleapis.com\/css?family=Poppins:300,400,500,600,700|Ubuntu+Mono:400,700&display=swap",
-    "fonts_name_1": "'Cinzel', serif",
+    "fonts_name_1": "\"Cinzel\", serif",
     "fonts_weight_1": "400",
-    "fonts_name_2": "'Playfair Display', serif;",
+    "fonts_name_2": "\"Cinzel\", serif",
     "fonts_weight_2": "400",
-    "fonts_name_3": "'Roboto', sans-serif",
+    "fonts_name_3": "\"Roboto\", sans-serif;",
     "fonts_weight_3": "300",
-    "fonts_name_4": "'Cinzel', serif",
+    "fonts_name_4": "\"Cinzel\", serif",
     "fonts_weight_4": "400",
     "enable_transforms": "capitalize",
     "enable_buttons": "uppercase",
@@ -867,12 +867,12 @@
           "footer_column_4_icon_link_2": true,
           "footer_column_4_icon_link_3": true,
           "menu": "main-menu",
-          "show_header_search": true,
+          "show_header_search": false,
           "show_header_account": true,
           "show_header_wishlist": true,
           "show_header_compare": false,
           "show_header_currency": false,
-          "show_button_language": true,
+          "show_button_language": false,
           "language_app": "weglot",
           "language_link_list": "",
           "show_header_cart": true,
@@ -886,7 +886,7 @@
           "1558950199607": {
             "type": "custom_html",
             "settings": {
-              "custom_html": "<p style=\"padding-right:10px; padding-left:10px; font-size: 18px;\">The BluliteShades Shop is a multi-brand, multi product marketplace featuring a variety of fun and beautiful items for sale. New items added almost everyday so be sure and sign up for our newsletter for up to date information on new and on sale items.<\/p>"
+              "custom_html": "<p style=\"padding-right:10px; font-size:20px; padding-left:10px\">The SNOW Style Shop is a multi-brand, multi product marketplace featuring a variety of fun and beautiful items for sale. New items added almost everyday so be sure and sign up for our newsletter for up to date information on new and on sale items.<\/p>"
             }
           },
           "1556267134781": {
@@ -900,15 +900,15 @@
             "type": "newsletter",
             "settings": {
               "home_newsletter_title": "Newsletter",
-              "home_newsletter_subtitle": "Subscribe to the BluliteShades Shop mailing list to receive updates  on new arrivals, special offers and other  discount information.",
+              "home_newsletter_subtitle": "Subscribe to the Snow Style Shop mailing list to receive updates  on new arrivals, special offers and other  discount information.",
               "home_newsletter_subtitle_2": "",
-              "mailing_list_form_action": ""
+              "mailing_list_form_action": "http:\/\/eepurl.com\/g274DT"
             }
           },
           "1558406339624": {
             "type": "copyright",
             "settings": {
-              "footer_copyright": "Copyright © 2020 bluliteshades.com. All rights reserved."
+              "footer_copyright": "Copyright © 2020 snowstyleshop.com. All rights reserved."
             }
           }
         },
@@ -922,7 +922,7 @@
           "layout_footer": "60px 0px 0px 0px",
           "enable_block_home_icon_full": false,
           "footer_layouts": "footer_layout_1",
-          "show_top_border": false,
+          "show_top_border": true,
           "show_button_back_to_top": true
         }
       },
@@ -1003,7 +1003,7 @@
           "display_availability": false,
           "display_sale": true,
           "enable_wishlist": true,
-          "enable_payment_button": false,
+          "enable_payment_button": true,
           "display_spend_shipping": false,
           "product_bagde_image": false,
           "product_flash_sold_enable": false,
@@ -1217,7 +1217,7 @@
       "collection-template1": {
         "type": "collection-template1",
         "settings": {
-          "enable_full": false,
+          "enable_full": true,
           "display_image_cat": false,
           "colection_title": true,
           "colection_decription": true,
@@ -1410,8 +1410,8 @@
               "style_color_text": "dark",
               "heading": "",
               "custom_class_1": "",
-              "subheading": "LIGHT GLASSES",
-              "custom_class_2": "slide-white",
+              "subheading": "FREE SHIPPIING",
+              "custom_class_2": "Peace, Love, and Good Vibes",
               "subheading_1": "Peace, Love, and Good Vibes",
               "custom_class_3": "",
               "button_label": "Shop Now",
@@ -1443,10 +1443,10 @@
               "style_color_text": "dark",
               "heading": "",
               "custom_class_1": "",
-              "subheading": "PROTECT YOUR EYES",
-              "custom_class_2": "alt-font",
-              "subheading_1": "Be One with Nature and the Universe",
-              "custom_class_3": "alt-font",
+              "subheading": "ON TREND",
+              "custom_class_2": "base",
+              "subheading_1": "Sleek Designs",
+              "custom_class_3": "base",
               "button_label": "SHOP NOW",
               "link": "shopify:\/\/collections\/sacred-symbols-and-designs",
               "color_button_type": "color_button_type_1",
@@ -1476,9 +1476,9 @@
               "style_color_text": "dark",
               "heading": "",
               "custom_class_1": "",
-              "subheading": "YOUR FAVORITE",
+              "subheading": "CLASSIC STYLES",
               "custom_class_2": "",
-              "subheading_1": "Trendy, Stunning, and Polished",
+              "subheading_1": "Everyday Wear",
               "custom_class_3": "",
               "button_label": "Shop Now",
               "link": "shopify:\/\/collections\/most-popular",
@@ -1523,10 +1523,10 @@
               "vertical_align": "top",
               "grid": 12,
               "grid_responsive": "",
-              "text": "<div class=\"custom-home1\">\n<p>Possible order processing delays up to 15 days due to COVID-19<\/p>\n<h3>On Select Items<\/h3>\n<\/div>",
+              "text": "<div class=\"custom-home1\">\n<p>FAST AND FREE SHIPPING ON ALL ITEMS<\/p>\n<h3>FREE SHIPPING<\/h3>\n<\/div>",
               "color": "#fff",
               "button_label": "Learn More",
-              "button_link": "shopify:\/\/collections\/all",
+              "button_link": "shopify:\/\/pages\/covid-19-delays",
               "color_button_type": "color_button_type_1"
             }
           }
@@ -1568,19 +1568,19 @@
               "video_external_url": "",
               "video_autoplay": true,
               "video_controls": false,
-              "url": "shopify:\/\/collections\/all",
+              "url": "shopify:\/\/products\/black-and-pink-blue-light-blocking-glasses",
               "text_line_1": "",
               "custom_class_1": "",
               "text_line_2": "Trendy <br>Light Glasses",
-              "custom_class_2": "alt-font",
-              "text_line_3": "All Glasses",
+              "custom_class_2": "Base",
+              "text_line_3": "Light Glasses",
               "custom_class_3": "",
               "button_text": "Shop",
               "menu": "",
               "custom_html": "",
               "color_text_line_1": "#464646",
-              "color_text_line_2": "#120e0e",
-              "color_text_line_3": "#0a3202",
+              "color_text_line_2": "#000000",
+              "color_text_line_3": "#000000",
               "color_button_link": "rgba(0,0,0,0)",
               "bg_button_link": "rgba(0,0,0,0)",
               "color_button_type": "1"
@@ -1604,18 +1604,18 @@
               "video_external_url": "",
               "video_autoplay": true,
               "video_controls": false,
-              "url": "shopify:\/\/collections\/frontpage",
-              "text_line_1": "Great for EYES",
+              "url": "shopify:\/\/products\/black-purple-blue-light-blocking-glasses",
+              "text_line_1": "Great for EYEs",
               "custom_class_1": "",
               "text_line_2": "Smart Glasses",
-              "custom_class_2": "alt-font",
+              "custom_class_2": "base",
               "text_line_3": "",
               "custom_class_3": "",
               "button_text": "",
               "menu": "",
               "custom_html": "",
-              "color_text_line_1": "#000c11",
-              "color_text_line_2": "#120e0e",
+              "color_text_line_1": "#000000",
+              "color_text_line_2": "#000000",
               "color_text_line_3": "#ffb5b5",
               "color_button_link": "rgba(0,0,0,0)",
               "bg_button_link": "#ff9797",
@@ -1634,24 +1634,24 @@
               "margin_bottom": 0,
               "reponsive_bt": "",
               "type": "1",
-              "image": "shopify:\/\/shop_images\/11_d8ba82f3-1a53-4753-b6f8-1a8562d44a67.jpg",
+              "image": "shopify:\/\/shop_images\/11.jpg",
               "disable_lazyload": false,
               "video_mp4_url": "",
               "video_external_url": "",
               "video_autoplay": true,
               "video_controls": false,
-              "url": "shopify:\/\/products\/brown-frame-blue-light-blocking-glasses",
-              "text_line_1": "Great for Adult",
+              "url": "shopify:\/\/products\/blue-light-blocking-glasses",
+              "text_line_1": "Great For Adult",
               "custom_class_1": "",
               "text_line_2": "Fun",
-              "custom_class_2": "alt-font",
+              "custom_class_2": "base",
               "text_line_3": "",
               "custom_class_3": "",
               "button_text": "",
               "menu": "",
               "custom_html": "",
-              "color_text_line_1": "#120e0e",
-              "color_text_line_2": "#120e0e",
+              "color_text_line_1": "#000000",
+              "color_text_line_2": "#000000",
               "color_text_line_3": "#464646",
               "color_button_link": "rgba(0,0,0,0)",
               "bg_button_link": "rgba(0,0,0,0)",
@@ -1687,7 +1687,7 @@
           "type": "type_4",
           "icon": "",
           "anchor_link": "",
-          "link": "shopify:\/\/collections\/all",
+          "link": "shopify:\/\/collections\/frontpage",
           "margin_top": 0,
           "reponsive_mt": "",
           "margin_bottom": 0,
@@ -1722,7 +1722,7 @@
           "reponsive_bt": "",
           "font_size": 30,
           "html_tag": "h3",
-          "text_transform": "capitalize",
+          "text_transform": "uppercase",
           "alignment": "center"
         }
       },
@@ -1733,9 +1733,9 @@
             "type": "tabs",
             "settings": {
               "hide_title": false,
-              "title": "",
+              "title": "Home page",
               "tabnew_collection": "frontpage",
-              "enable_show_all": true,
+              "enable_show_all": false,
               "button": "Show All"
             }
           },
@@ -1743,8 +1743,8 @@
             "type": "tabs",
             "settings": {
               "hide_title": false,
-              "title": "",
-              "tabnew_collection": "",
+              "title": "Most Popular",
+              "tabnew_collection": "most-popular",
               "enable_show_all": false,
               "button": "Show All"
             }
@@ -1808,7 +1808,7 @@
             "settings": {
               "hide_title": true,
               "title": "",
-              "tabnew_collection": "frontpage"
+              "tabnew_collection": "most-popular"
             }
           }
         },

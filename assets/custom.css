@@ -13,6 +13,11 @@
 /* Header Background Coloer */
 .header {
     background-color: rgba(0, 0, 0, 0.7);
+
+}
+
+.header .dropdown-sub {
+    background-color: rgba(0, 0, 0, 0.7) !important;
 }
 
 /* .header .header-cart-container.menu i {
